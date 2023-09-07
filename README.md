@@ -5,7 +5,7 @@ Collection of photos, videos and memories of my High School journey and all abou
 
 MIT License
 
-Copyright (c) 2021 Bianca Nicole Maxino
+Copyright (c) 2021 Bianca Maxino
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
